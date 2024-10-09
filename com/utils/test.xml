@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<root>
+  <node id="123">Node 123</node>
+  
+  <node id="456">Node 456</node>
+</root>
