@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root>
+    <node>
+        <nodeid>1</nodeid>
+        <desc>Nodo 1</desc>
+    </node>
+      
+
+    <node>
+        <nodeid>3</nodeid>
+        <desc>Nodo 3</desc>
+    </node>
+    
+
+</root>
